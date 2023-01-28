@@ -1,4 +1,4 @@
-
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/SonecaS2/count.svg?"  />
