@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SonecaS2/count.svg?"  />
-</div>
-
 ###
 
 ### Oie devs 👋
@@ -64,6 +60,20 @@ object **HUAN** {
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SonecaS2** github stats"/>
 </a>
+
+[website]: https://sonecoode.netlify.app/
+[twitter]: https://twitter.com/SonecaHuan
+[instagram]: https://www.instagram.com/sone.code/
+[linkedin]: https://www.linkedin.com/in/huan-dos-santos-salom%C3%A3o-672115213/
+<br>
+
+#### Rede Sociais!
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
 
 
 
