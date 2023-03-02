@@ -6,21 +6,23 @@
 
 ###
 
-<h1 align="left">Olá! Eu sou o Huan Salomão 🖐️</h1>
+### Oie devs 👋
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ###
 
-<h2 align="left">Apenas um jovem iniciante na programação e apaixonado por tecnologia. 🖥️</h2>
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object **SEU NOME** {
- val name = "SEU NOME COMPLETO"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
+object **HUAN** {
+ val name = "HUAN DOS SANTOS SALOMÃO"
+ val acknowledgements = "FRONT-END"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+ val languages = listOf("JavaScript", "php", "MySQL", "git", "css3") 
+ val studies = listOf("sass", "reactJs", "laravel")
+ 
 
 }
 ```
@@ -36,11 +38,9 @@ object **SEU NOME** {
   </a>
 </div>
 
-###
 
-<h4 align="left">Tecnologias e linguagens de programação com as quais tenho experiência:</h4>
+## **Linguagens e Ferramentas:**  
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
