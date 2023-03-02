@@ -14,8 +14,6 @@ object **HUAN** {
  val primarySkillset = "ALGUMAS HABILIDADES"
  val languages = listOf("JavaScript", "php", "MySQL", "git", "css3") 
  val studies = listOf("sass", "reactJs", "laravel")
- 
-
 }
 ```
 
