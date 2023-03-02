@@ -18,7 +18,7 @@ object **HUAN** {
 
 
 
-## **Linguagens e Ferramentas:**  
+## **Linguagens e Tecnologias:**  
 
 
 <div align="left">
