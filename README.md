@@ -7,6 +7,7 @@
 ###
 
 <h1 align="left">Olá! Eu sou o Huan Salomão 🖐️</h1>
+Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ###
 
@@ -15,9 +16,6 @@
 
 ###
 
-<p align="left">Eu moro em Ilhabela, litoral norte de SP<br>Sou estudante de Analise e desenvolvimento de sistemas 💻<br>Sou desenvolvedor Front-end 💻🚀</p>
-
-###
 
 <h4 align="left">conecte-se comigo:</h4>
 
