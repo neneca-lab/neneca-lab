@@ -11,6 +11,7 @@ object **HUAN** {
  val name = "HUAN DOS SANTOS SALOMÃO"
  val acknowledgements = "FRONT-END"
  val primarySkillset = "ALGUMAS HABILIDADES"
+ 
  val languages = listOf("JavaScript", "php", "MySQL", "git", "css3") 
  val studies = listOf("sass", "reactJs", "laravel")
 }
