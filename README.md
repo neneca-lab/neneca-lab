@@ -32,7 +32,7 @@ object **HUAN** {
 
 
 
-## **Linguagens e Ferramentas nas quais estou estudando:** 
+## **Ferramentas nas quais estou estudando:** 
 
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  /></code>
