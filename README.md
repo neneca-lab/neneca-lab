@@ -6,24 +6,13 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-```kotlin
-object **HUAN** {
- val name = "HUAN DOS SANTOS SALOMÃO"
- val acknowledgements = "FRONT-END"
- val primarySkillset = "ALGUMAS HABILIDADES"
- 
- val languagesTec = listOf("JavaScript", "php", "MySQL", "git", "css3") 
- val studies = listOf("sass", "reactJs", "laravel")
-}
-```
 ```php
  <?php
- 
- $arr=array("name"=>"Huan", "age"=>20, "languagesTec"=>"JavaScript", "php", "MySQL", "git", "css3",
- "studies"=>"sass", "reactJs", "laravel");
- $obj=(object)$arr;
- print_r($obj);
- 
+    $arr=array("name"=>"Huan", "age"=>20, "languagesTec"=>"JavaScript", 
+    "php", "MySQL", "git", "css3", "studies"=>"sass", "reactJs", "laravel");
+    $obj=(object)$arr;
+    print_r($obj);
+    echo "Um pouco mais sobre mim";
  ?>
 ```
 
