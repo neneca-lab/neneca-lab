@@ -8,11 +8,13 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 ```php
  <?php
+ 
     $arr=array("name"=>"Huan", "age"=>20, "languagesTec"=>"JavaScript", 
     "php", "MySQL", "git", "css3", "studies"=>"sass", "reactJs", "laravel");
     $obj=(object)$arr;
     print_r($obj);
     echo "Um pouco mais sobre mim";
+    
  ?>
 ```
 
