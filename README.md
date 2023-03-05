@@ -14,7 +14,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
     $obj=(object)$arr;
     print_r($obj);
     echo "Um pouco mais sobre mim";
-    
  ?>
 ```
 
