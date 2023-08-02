@@ -39,6 +39,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss" /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java.svg" height="40" width="52" alt="java" /></code>
 </div>
 
 ## **GitHub Estatísticas**
