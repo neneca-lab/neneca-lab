@@ -63,7 +63,6 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-![Snake animation](https://github.com/SonecaS2/SonecaS2/blob/output/github-contribution-grid-snake.svg)
 
 
 
