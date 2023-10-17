@@ -10,7 +10,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
  <?php
  
     $arr = ['name' => 'Huan', 'age' => 20, 'languagesTec' => 'JavaScript', 
-    'php', 'MySQL', 'git', 'css3', 'studies' => 'sass', 'reactJs', 'laravel'];
+    'php', 'MySQL', 'git', 'css3', 'studies' => 'java','laravel'];
     $obj = (object) $arr;
     print_r($obj) . PHP_EOL;
     echo "Um pouco mais sobre mim";
