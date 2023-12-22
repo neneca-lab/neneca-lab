@@ -1,9 +1,9 @@
-### Oie devs 👋
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+### Hi devs 👋
+I enjoy creating great software and helping other people do the same.
 
 ###
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```php
@@ -13,13 +13,13 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
     'php', 'MySQL', 'git', 'css3', 'studies' => 'java','laravel'];
     $obj = (object) $arr;
     print_r($obj) . PHP_EOL;
-    echo "Um pouco mais sobre mim";
+    echo "A little more about me";
  ?>
 ```
 
 
 
-## **Linguagens e Tecnologias:**  
+## **Languages ​​and Technologies:**  
 
 
 <div align="left">
@@ -33,14 +33,14 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
 
 
-## **Ferramentas nas quais estou estudando:** 
+## **Tools I'm studying:** 
 
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/laravel-plain.svg" height="40" width="52" alt="laravel logo" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" width="52" alt="java" /></code>
 </div>
 
-## **GitHub Estatísticas**
+## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonecaS2&theme=dracula&hide_langs_below=1" />
@@ -56,7 +56,7 @@ Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 [linkedin]: https://www.linkedin.com/in/huan-dos-santos-salom%C3%A3o-672115213/
 <br>
 
-#### Rede Sociais!
+#### Social networks!
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
