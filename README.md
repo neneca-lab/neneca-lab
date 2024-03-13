@@ -43,11 +43,11 @@ I enjoy creating great software and helping other people do the same.
 ## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonecaS2&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneca-lab&theme=dracula&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SonecaS2&show_icons=true&theme=dracula&line_height=27" alt="**SonecaS2** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=neneca-lab&show_icons=true&theme=dracula&line_height=27" alt="**neneca-lab** github stats"/>
 </a>
 
 [website]: https://sonecoode.netlify.app/
