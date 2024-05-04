@@ -52,7 +52,7 @@ I enjoy creating great software and helping other people do the same.
 
 [website]: https://sonecoode.netlify.app/
 [twitter]: https://twitter.com/SonecaHuan
-[instagram]: https://www.instagram.com/sone.code/
+[instagram]: https://www.instagram.com/nenecahuan/
 [linkedin]: https://www.linkedin.com/in/huan-dos-santos-salom%C3%A3o-672115213/
 <br>
 
