@@ -42,8 +42,8 @@ I enjoy creating great software and helping other people do the same.
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneca-lab&theme=dracula&hide_langs_below=1" alt="**neneca-lab**" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=208 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neneca-lab&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 
 <a href="https://github.com/Gurupreet">
