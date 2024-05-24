@@ -43,7 +43,7 @@ I enjoy creating great software and helping other people do the same.
 ## **GitHub Statistics**
 
 <a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneca-lab&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neneca-lab&theme=dracula&hide_langs_below=1" alt="**neneca-lab**" />
 </a>
 
 <a href="https://github.com/Gurupreet">
