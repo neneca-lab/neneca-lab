@@ -8,7 +8,6 @@ I enjoy creating great software and helping other people do the same.
 
 ```php
  <?php
- 
     $arr = ['name' => 'Huan', 'age' => 20, 'languagesTec' => 'JavaScript', 
     'php', 'MySQL', 'git', 'css3', 'studies' => 'java','laravel'];
     $obj = (object) $arr;
