@@ -30,6 +30,7 @@ I enjoy creating great software and helping other people do the same.
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" width="52" alt="java" /></code>
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="40" width="52" alt="java" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"/></code>
+   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel" /></code>
 </div>
 
 
@@ -37,7 +38,7 @@ I enjoy creating great software and helping other people do the same.
 ## **Tools I'm studying:** 
 
 <div align="left">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" width="52" alt="laravel" /></code>
+
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" width="52" alt="aws" /></code>
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="52" alt="spring boot"/></code>
 </div>
