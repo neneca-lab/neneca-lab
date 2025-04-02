@@ -36,13 +36,10 @@ I enjoy creating great software and helping other people do the same.
 
 ## **GitHub Statistics**
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=208 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neneca-lab&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
-
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=neneca-lab&show_icons=true&theme=dracula&line_height=27" alt="**neneca-lab** github stats"/>
-</a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=neneca-lab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neneca-lab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 [website]: https://sonecoode.netlify.app/
 [twitter]: https://twitter.com/SonecaHuan
