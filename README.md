@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         Person huan = new Person(
             "Huan",
-            20,
+            22,
             new String[]{"JavaScript", "php", "MySQL", "git", "Java", "SpringBoot","laravel"},
         );
         System.out.println(huan);
