@@ -14,8 +14,8 @@ public class Main {
             22,
             new String[]{"JavaScript", "php", "MySQL", "git", "Java", "SpringBoot","laravel"},
         );
-        System.out.println(huan);
         System.out.println("A little more about me");
+        System.out.println(huan);
     }
 }
 ```
