@@ -45,7 +45,6 @@ public class Main {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neneca-lab&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-[website]: https://sonecoode.netlify.app/
 [twitter]: https://twitter.com/SonecaHuan
 [instagram]: https://www.instagram.com/nenecahuan/
 [linkedin]: https://www.linkedin.com/in/huan-dos-santos-salom%C3%A3o-672115213/
