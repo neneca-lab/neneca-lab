@@ -52,7 +52,6 @@ public class Main {
 
 #### Social networks!
 
-🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
