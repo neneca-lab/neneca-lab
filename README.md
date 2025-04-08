@@ -7,13 +7,17 @@ I enjoy creating great software and helping other people do the same.
 
 
 ```php
- <?php
-    $arr = ['name' => 'Huan', 'age' => 20, 'languagesTec' => 'JavaScript', 
-    'php', 'MySQL', 'git', 'css3', 'studies' => 'java','laravel'];
-    $obj = (object) $arr;
-    print_r($obj) . PHP_EOL;
-    echo "A little more about me";
- ?>
+public class Main {
+    public static void main(String[] args) {
+        Person huan = new Person(
+            "Huan",
+            20,
+            new String[]{"JavaScript", "php", "MySQL", "git", "Java", "SpringBoot","laravel"},
+        );
+        System.out.println(huan);
+        System.out.println("A little more about me");
+    }
+}
 ```
 
 
