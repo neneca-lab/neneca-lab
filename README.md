@@ -1,10 +1,9 @@
 ### Hi devs 👋
-I enjoy creating great software and helping other people do the same.
 
+I am Huan Salomão.
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=500&lines=Back-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=500&lines=Back-End+Developer{...}" alt="Typing SVG" />
 </p>
-
 
 ###
 
