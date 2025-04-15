@@ -1,6 +1,11 @@
 ### Hi devs 👋
 I enjoy creating great software and helping other people do the same.
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=500&lines=Back-End+Developer" alt="Typing SVG" />
+</p>
+
+
 ###
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
