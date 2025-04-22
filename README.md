@@ -45,8 +45,7 @@ public class Main {
 [twitter]: https://twitter.com/SonecaHuan
 [instagram]: https://www.instagram.com/nenecahuan/
 [linkedin]: https://www.linkedin.com/in/huan-dos-santos-salom%C3%A3o-672115213/
-<br>
----
+
 #### Social networks!
 
 🐦 [twitter][twitter] **|** 
