@@ -16,9 +16,9 @@ public class Main {
         Person huan = new Person(
             "Huan",
             22,
-            new String[]{"JavaScript", "php", "MySQL", "git", "Java", "SpringBoot","laravel"},
+            new String[]{"JavaScript", "React" "php", "MySQL", "git", "Java", "Spring Boot","laravel", "Azure", "AWS"},
         );
-        System.out.println("A little more about me");
+        System.out.println("A little more about me\n");
         System.out.println(huan);
     }
 }
@@ -31,8 +31,8 @@ public class Main {
 
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="52" alt="javascript logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="52" alt="css3 logo"  /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="52" alt="html5 logo"  /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="35" width="52"/></code>
+    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="35" width="52"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" width="52" alt="git logo"  /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" width="52" alt="php logo"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="35" width="52" alt="java" /></code>
@@ -40,6 +40,8 @@ public class Main {
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" width="52" alt="mysql logo"/></code>
    <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" width="52" alt="laravel" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="35" width="52" alt="spring boot"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="35" width="52"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" width="52"/></code>
 </div>
 
 [twitter]: https://twitter.com/SonecaHuan
