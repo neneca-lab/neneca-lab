@@ -10,11 +10,6 @@
   <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 ###
 
@@ -56,7 +51,9 @@
 </div>
 
 ###
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neneca-lab/neneca-lab/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neneca-lab/neneca-lab/output/pacman-contribution-graph.svg">
