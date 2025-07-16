@@ -1,33 +1,44 @@
-### Hi devs 👋
-
-I am Huan Salomão.
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer{...}" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW05dGswaW4zN281anZtZjA1MHQ0emFzZW4xNHd0cmR6MWVud2c4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif"  />
+</div>
 
 ###
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=fe164f&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=X&logo=X&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
+###
 
-```php
-public class Main {
-    public static void main(String[] args) {
-        Person huan = new Person(
-            "Huan",
-            22,
-            new String[]{"JavaScript", "React" "php", "MySQL", "git", "Java", "Spring Boot","laravel", "Azure", "AWS"},
-        );
-        System.out.println("A little more about me\n");
-        System.out.println(huan);
-    }
-}
-```
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
+###
 
+<h1 align="center">Hi Devs👋</h1>
 
-## **Languages ​​and Technologies:**  
+###
 
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png" height="45"> More about me
+
+👋 My name is **Huan**, and I have a degree in **Systems Analysis and Development**.
+
+🔭 I work as a developer focused on **PHP**, **Laravel**, **JavaScript**, and **MySQL**, building robust and efficient solutions.
+
+🚀 I have strong knowledge in **Java**, **Spring Boot**, **PostgreSQL**, **Docker**, **Azure**, **AWS**, and **React**, which allows me to work confidently across different layers of an application.
+
+📚 I'm passionate about technology and always looking to grow and learn more.
+
+🌿 In my free time, I enjoy reconnecting with nature — going on **hikes**, visiting **beaches**, and exploring beautiful landscapes.
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
 
 <div align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="52" alt="javascript logo"  /></code>
@@ -44,16 +55,20 @@ public class Main {
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="35" width="52"/></code>
 </div>
 
-[twitter]: https://twitter.com/SonecaHuan
-[instagram]: https://www.instagram.com/nenecahuan/
-[linkedin]: https://www.linkedin.com/in/huansalomao/
+###
 
-#### Social networks!
+<h3 align="left">🔥   My Stats :</h3>
 
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=neneca-lab&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
+###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neneca-lab/neneca-lab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neneca-lab/neneca-lab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/neneca-lab/output/pacman-contribution-graph.svg">
+</picture>
